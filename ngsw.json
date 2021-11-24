@@ -1,0 +1,89 @@
+{
+  "configVersion": 1,
+  "timestamp": 1637747310992,
+  "index": "https://zurrumikalo.github.io/pruebaPWA/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://zurrumikalo.github.io/pruebaPWA/favicon.ico",
+        "https://zurrumikalo.github.io/pruebaPWA/index.html",
+        "https://zurrumikalo.github.io/pruebaPWA/main.ecb26f7725ac8deb.js",
+        "https://zurrumikalo.github.io/pruebaPWA/manifest.webmanifest",
+        "https://zurrumikalo.github.io/pruebaPWA/polyfills.7fc76ef0eaf5279b.js",
+        "https://zurrumikalo.github.io/pruebaPWA/runtime.2ae08c841e7116e5.js",
+        "https://zurrumikalo.github.io/pruebaPWA/styles.60fb10ac14de8962.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://zurrumikalo.github.io/pruebaPWA/assets/cursos.json",
+        "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-128x128.png",
+        "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-144x144.png",
+        "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-152x152.png",
+        "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-192x192.png",
+        "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-384x384.png",
+        "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-512x512.png",
+        "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-72x72.png",
+        "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-96x96.png",
+        "https://zurrumikalo.github.io/pruebaPWA/assets/img/frontend.jpg",
+        "https://zurrumikalo.github.io/pruebaPWA/assets/img/fullstack.jpg",
+        "https://zurrumikalo.github.io/pruebaPWA/assets/img/wordpress.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://zurrumikalo.github.io/pruebaPWA/assets/cursos.json": "622cd9dce4de39654b807e018d8da81c3fcdd70d",
+    "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://zurrumikalo.github.io/pruebaPWA/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://zurrumikalo.github.io/pruebaPWA/assets/img/frontend.jpg": "0dce3f244a838137647e4f388cede6f769313ad1",
+    "https://zurrumikalo.github.io/pruebaPWA/assets/img/fullstack.jpg": "b78cb4656677dde1e3594e70d4925b8a34f95b4c",
+    "https://zurrumikalo.github.io/pruebaPWA/assets/img/wordpress.jpg": "8d0697b616369bb2af0590ecb21d4c4674717c90",
+    "https://zurrumikalo.github.io/pruebaPWA/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://zurrumikalo.github.io/pruebaPWA/index.html": "7397d4512cc88dd151e29ebcab972edc99116b66",
+    "https://zurrumikalo.github.io/pruebaPWA/main.ecb26f7725ac8deb.js": "6c11cca5fa6a56c53ee5b9494468cc5456f5a288",
+    "https://zurrumikalo.github.io/pruebaPWA/manifest.webmanifest": "c93e3909cd55452850223e459f1edf91f43b6763",
+    "https://zurrumikalo.github.io/pruebaPWA/polyfills.7fc76ef0eaf5279b.js": "39e80da54c504e84acd36e867271ffe7331ac7a8",
+    "https://zurrumikalo.github.io/pruebaPWA/runtime.2ae08c841e7116e5.js": "b90da1830d99d6477f42d4d17b84e7dc59f91f7a",
+    "https://zurrumikalo.github.io/pruebaPWA/styles.60fb10ac14de8962.css": "7098451d181427166e21d98d8985c023c1672819"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
